@@ -1,0 +1,1 @@
+print("Stephen king es un escritor estadounidense\nUna de sus más grandes trabajos es 'El resplandor' ")
