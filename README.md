@@ -1,6 +1,6 @@
-Python by Example
-Learning to program in 150 Challenges
-by Nichola Lacey
+# Python by Example
+## Learning to program in 150 Challenges
+### by Nichola Lacey
 
 ------------
 
